@@ -4,7 +4,7 @@ Platforms: Win64
 
 Demo video: OMISSIS
 
-Binaries: https://drive.google.com/file/d/1wlhHICVwM05pVay2UItp5eLuh73KxKIT/view?usp=sharing
+Binaries: https://github.com/Davide-Cocchiara/MusicalHandsMediaPipe/releases/download/release/MediaPipeInstrumentPublic1.0.zip
 
 More details: https://github.com/google/mediapipe
 
@@ -13,7 +13,7 @@ Uses wongfei's plugin for MediaPipe under the Apache 2.0 license: https://github
 # Usage
 
 Download the file from:
-https://drive.google.com/file/d/1wlhHICVwM05pVay2UItp5eLuh73KxKIT/view?usp=sharing
+https://github.com/Davide-Cocchiara/MusicalHandsMediaPipe/releases/download/release/MediaPipeInstrumentPublic1.0.zip
 
 Extract the .zip file into a folder.
 
