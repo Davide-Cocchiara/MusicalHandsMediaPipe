@@ -25,3 +25,5 @@ Open the file: "APRI QUESTO - OPEN THIS.bat"
 In order to host, press the "Host" button.
 
 In order to connect, change the IP address and press the "Connect" button.
+
+Pressing tab allows you to switch role between Melody and Accompainment.
