@@ -5,9 +5,11 @@
 </p>
 Platforms: Win64
 
-Demo video: OMISSIS
+Demo video: https://youtu.be/uVsJeT1JzHs
 
 Binaries: https://github.com/Davide-Cocchiara/MusicalHandsMediaPipe/releases/download/release/MediaPipeInstrumentPublic1.0.zip
+
+Paper: https://www.researchgate.net/publication/362394663_Democratizing_access_to_collaborative_music_making_over_the_network_using_air_instruments
 
 More details: https://github.com/google/mediapipe
 
