@@ -11,6 +11,8 @@ Binaries: https://github.com/Davide-Cocchiara/MusicalHandsMediaPipe/releases/dow
 
 Paper: https://www.researchgate.net/publication/362394663_Democratizing_access_to_collaborative_music_making_over_the_network_using_air_instruments
 
+Contact: davideme.cocchiara@gmail.com
+
 More details: https://github.com/google/mediapipe
 
 Uses wongfei's plugin for MediaPipe under the Apache 2.0 license: https://github.com/wongfei/ue4-mediapipe-plugin
